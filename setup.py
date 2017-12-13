@@ -34,7 +34,7 @@ setup(
     tests_require=tests_require,
     dependency_links=dependency_links,
     setup_requires=[
-        #    'pytest-runner==2.7'
+            'pytest-runner==2.7'
     ],
     version=version,
     classifiers=[
